@@ -35,7 +35,7 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 ## 📚 Disciplina
 
-A disciplina Linguagem de Programação II aprofunda os conhecimentos acerca de aplicações Web feitas com a linguagem de programação Java. Nela é desenvolvido conhecimentos na linguagem de programação Java, assim como implementar o conteúdo da página dinâmica do lado do servidor(JSP), uso do framework JPA para persistir objetos Java, conexões com banco de dados através de JDBC, criação de Filtros com a API de Servlets, Introdução e Desenvolvimento de Projetos com Spring Boot, Spring MVC e Hibernate
+A disciplina Linguagem de Programação II aprofunda os conhecimentos acerca de aplicações Web feitas com a linguagem de programação Java. Nela é desenvolvido conhecimentos na linguagem de programação Java, assim como implementação de conteúdo de página dinâmica do lado do servidor através de paginas JSP, uso do framework JPA para persistir objetos Java, conexões com banco de dados através de JDBC, criação de Filtros com a API de Servlets, Introdução e Desenvolvimento de Projetos com Spring Boot, Spring MVC e Hibernate
 
 ## 💻 Atividades
 
