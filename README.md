@@ -41,13 +41,13 @@ A disciplina Linguagem de Programação I apresenta conhecimentos e conceitos so
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
-- [Atividade Servlet]()
-- [Atividade JSP]()
-- [Atividade JDBC]()
-- [Atividade JPA]()
-- [Atividade MVC e Filtros]()
-- [Atividade Projeto Spring]()
-- [Code Challenge - Juntos Somos Mais]()
+- [Atividade Servlet](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/Servlet)
+- [Atividade JSP](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/JSP)
+- [Atividade JDBC](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/JDBC)
+- [Atividade JPA](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/JPA)
+- [Atividade MVC e Filtros](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/MVC%20e%20Filtros)
+- [Atividade Projeto Spring](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/Projeto%20Spring)
+- [Code Challenge - Juntos Somos Mais](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Code%20Challenge%20-%20Juntos%20Somos%20Mais)
 </p>
 
 
