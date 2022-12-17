@@ -17,7 +17,7 @@
 
 ## 🗃️ Repositório
 
-Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Linguagem de Programação I, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
+Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Linguagem de Programação II, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 
 ## 🏫 IFSP
 
@@ -35,7 +35,7 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 ## 📚 Disciplina
 
-A disciplina Linguagem de Programação I apresenta conhecimentos e conceitos sobre orientação a objetos no contexto de desenvolvimento de software, aplicando tecnicas e conhecimentos comuns no desenvolvimento de programas orientados a objetos. Nela é desenvolvido conhecimentos na linguagem de programação Java, assim como a criação e desenvolvimento de Classes, Objetos, Atributos, Métodos, Composição, Herança, Polimorfismo, Atributos e Métodos Finais e Estáticos, Classes Abstratas e Interfaces
+A disciplina Linguagem de Programação II aprofunda os conhecimentos acerca de aplicações Web feitas com a linguagem de programação Java. Nela é desenvolvido conhecimentos na linguagem de programação Java, assim como implementar o conteúdo da página dinâmica do lado do servidor(JSP), uso do framework JPA para persistir objetos Java, conexões com banco de dados através de JDBC, criação de Filtros com a API de Servlets, Introdução e Desenvolvimento de Projetos com Spring Boot, Spring MVC e Hibernate
 
 ## 💻 Atividades
 
