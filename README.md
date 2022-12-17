@@ -41,16 +41,13 @@ A disciplina Linguagem de Programação I apresenta conhecimentos e conceitos so
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
-- [Atividade 1](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%201)
-- [Atividade 2](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%202)
-- [Atividade 3](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%203)
-- [Atividade 4](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%204)
-- [Atividade 5](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%205)
-- [Atividade 6](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%206)
-- [Atividade 7](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%207)
-- [Atividade 8](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%208)
-- [Atividade 9](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Atividades/Atividade%209)
-- [Projeto - CRUD com MVC](https://github.com/Karimangfn/Linguagem-de-Programacao-1/tree/main/Projeto%20-%20CRUD%20com%20MVC)
+- [Atividade Servlet]()
+- [Atividade JSP]()
+- [Atividade JDBC]()
+- [Atividade JPA]()
+- [Atividade MVC e Filtros]()
+- [Atividade Projeto Spring]()
+- [Code Challenge - Juntos Somos Mais]()
 </p>
 
 
