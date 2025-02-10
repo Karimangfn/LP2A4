@@ -41,6 +41,7 @@ A disciplina Linguagem de Programação II aprofunda os conhecimentos acerca de 
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
+- [Atividade HelloWorlMaven](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/HelloWorldMaven)
 - [Atividade Servlet](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/Servlet)
 - [Atividade JSP](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/JSP)
 - [Atividade JDBC](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Atividades/JDBC)
