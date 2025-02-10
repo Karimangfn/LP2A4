@@ -50,6 +50,50 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 - [Code Challenge - Juntos Somos Mais](https://github.com/Karimangfn/Linguagem-de-Programacao-2/tree/main/Code%20Challenge%20-%20Juntos%20Somos%20Mais)
 </p>
 
+## ▶️ Como Executar os Códigos Java
+
+Antes de executar o código, certifique-se de que você tem o seguinte instalado:
+
+- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (versão 8 ou superior)
+- [Maven](https://maven.apache.org/install.html) (se for utilizar Maven)
+- [Spring Boot](https://spring.io/projects/spring-boot) (caso esteja trabalhando com um projeto Spring)
+
+### Para Executar um Arquivo Java Simples
+1. Abra um terminal e navegue até a pasta onde está o arquivo:  
+   `cd caminho/do/arquivo`
+
+2. Compile o arquivo Java:  
+   `javac NomeDoArquivo.java`
+
+3. Execute o programa:  
+   `java NomeDoArquivo`
+
+### Para Executar um Projeto Spring Boot
+1. Certifique-se de que você tem o [Spring Boot](https://spring.io/projects/spring-boot) instalado ou use o wrapper do Maven (`mvnw`) para garantir a versão correta.
+
+2. Navegue até o diretório do projeto:  
+   `cd caminho/do/projeto`
+
+3. Se estiver usando Maven, execute o comando para rodar o projeto:  
+   `mvn spring-boot:run`  
+   Ou, se estiver usando o wrapper do Maven:  
+   `./mvnw spring-boot:run`
+
+4. O servidor Spring Boot será iniciado. O padrão é `http://localhost:8080`.
+
+### Para Executar um Projeto com Maven
+1. Certifique-se de que o [Maven](https://maven.apache.org/install.html) está instalado ou use o wrapper do Maven (`mvnw`).
+
+2. Navegue até o diretório do projeto:  
+   `cd caminho/do/projeto`
+
+3. Para compilar o projeto e gerar os artefatos:  
+   `mvn clean install`
+
+4. Para executar o projeto com o Maven:  
+   `mvn exec:java`  
+   Ou, se o projeto for Spring Boot, use:  
+   `mvn spring-boot:run`
 
 
 ## 🚀 Tecnologias
