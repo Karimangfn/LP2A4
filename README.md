@@ -60,40 +60,62 @@ Antes de executar o código, certifique-se de que você tem o seguinte instalado
 
 ### Para Executar um Arquivo Java Simples
 1. Abra um terminal e navegue até a pasta onde está o arquivo:  
-   `cd caminho/do/arquivo`
+   ```sh
+   cd caminho/do/arquivo
+   ```
 
-2. Compile o arquivo Java:  
-   `javac NomeDoArquivo.java`
+3. Compile o arquivo Java:  
+   ```sh
+   javac NomeDoArquivo.java
+   ```
 
-3. Execute o programa:  
-   `java NomeDoArquivo`
+5. Execute o programa:  
+   ```sh
+   java NomeDoArquivo
+   ```
 
 ### Para Executar um Projeto Spring Boot
 1. Certifique-se de que você tem o [Spring Boot](https://spring.io/projects/spring-boot) instalado ou use o wrapper do Maven (`mvnw`) para garantir a versão correta.
 
-2. Navegue até o diretório do projeto:  
-   `cd caminho/do/projeto`
+2. Navegue até o diretório do projeto: 
+   ```sh
+   cd caminho/do/projeto
+   ```
 
-3. Se estiver usando Maven, execute o comando para rodar o projeto:  
-   `mvn spring-boot:run`  
-   Ou, se estiver usando o wrapper do Maven:  
-   `./mvnw spring-boot:run`
+4. Se estiver usando Maven, execute o comando para rodar o projeto:  
+   ```sh
+   mvn spring-boot:run
+   ```
 
-4. O servidor Spring Boot será iniciado. O padrão é `http://localhost:8080`.
+   Ou, se estiver usando o wrapper do Maven:
+   ```sh
+   ./mvnw spring-boot:run
+   ```
+
+6. O servidor Spring Boot será iniciado. O padrão é `http://localhost:8080`.
 
 ### Para Executar um Projeto com Maven
 1. Certifique-se de que o [Maven](https://maven.apache.org/install.html) está instalado ou use o wrapper do Maven (`mvnw`).
 
 2. Navegue até o diretório do projeto:  
-   `cd caminho/do/projeto`
+   ```sh
+   cd caminho/do/projeto
+   ```
 
-3. Para compilar o projeto e gerar os artefatos:  
-   `mvn clean install`
+4. Para compilar o projeto e gerar os artefatos:
+   ```sh
+   mvn clean install
+   ```
 
-4. Para executar o projeto com o Maven:  
-   `mvn exec:java`  
-   Ou, se o projeto for Spring Boot, use:  
-   `mvn spring-boot:run`
+6. Para executar o projeto com o Maven:  
+   ```sh
+   mvn exec:java
+   ```
+
+   Ou, se o projeto for Spring Boot, use:
+   ```sh 
+   mvn spring-boot:run
+   ```
 
 
 ## 🚀 Tecnologias
